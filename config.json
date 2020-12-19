@@ -1,0 +1,38 @@
+{
+    "nome": "Aula: Introdução a Internet e a Web",
+    "academico":{
+        "curso": "Autoração Multimídia II",
+        "cursoIcone": "layout/icones/banner_henrique.svg",
+        "disciplina":"",
+        "responsavel": "Professor Wellington Sarmento / Professor Mauro Pequeno / Professor Henrique Sergio"
+    },
+     "topicos": [        
+        {
+            "nome": "Tópico 01:",
+            "local": "topicos/01.html",
+            "audio": "audios/01.mp3",
+            "default": true
+        },
+        {
+            "nome": "Tópico 02:",
+            "local": "topicos/02.html",
+            "audio": "audios/02.mp3"
+        }
+        ,
+        {
+            "nome": "Tópico 03:",
+            "local": "topicos/03.html",
+            "audio": "audios/03.mp3"
+        }
+        
+    ],
+    "pdf": "pdf/linguagem_HTML.pdf",
+    "audio": "audios/linguagem_HTML.mp3",    
+    "tema":{
+      "primario": "purple-900",
+      "contraste": "orange"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}
